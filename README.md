@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-# 💻 🐈‍⬛ TECHS 💻 🐈‍⬛
+# 🐈 💻 TECHS 💻 🐈
 
 ###
 
@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-# STATS ! ! 📊 🐈
+# 🐾 📊 STATS ! ! 📊 🐾
 
 ###
 
